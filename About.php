@@ -145,7 +145,7 @@
 										<img class="img-responsive" src="img/team4.jpg" alt="">
 										<!-- Name -->
 										<h4>John Clarence</h4>
-										<span class="deg">wala hahaha</span> 
+										<span class="deg">Data Entry</span> 
 									</div>
 								</div>
 							</div>
